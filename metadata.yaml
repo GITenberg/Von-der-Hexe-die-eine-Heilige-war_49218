@@ -1,15 +1,21 @@
 _repo: Von-der-Hexe-die-eine-Heilige-war_49218
+_version: 0.1.0
 contributor:
   commentator:
     agent_name: Günther, Rudolf
     gutenberg_agent_id: '45201'
     url: http://www.gutenberg.org/2009/agents/45201
+covers:
+- cover_type: archival
+  image_path: 49218-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Günther, Agnes
     gutenberg_agent_id: '45200'
     url: http://www.gutenberg.org/2009/agents/45200
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49218#Von-der-Hexe-die-eine-Heilige-war
 gutenberg_issued: '2015-06-15'
 gutenberg_type: Text
 identifiers:
